@@ -1,7 +1,7 @@
 package = "kong-plugin-custom-acl"
 version = "1.0-2"
 source = {
-  url = "/usr/local/share/lua/5.1/kong/plugins/custom-acl",
+  url = "git+https://github.com/PrabalPradhan1991/kong-plugin-custom-acl.git",
   tag = "V1.0.2"
 }
 description = {
